@@ -33,7 +33,7 @@
 
 .header__logo {
   display: block;
-  width: 148px;
+  width: 136px;
 }
 
 .header__logo-image {
@@ -79,6 +79,7 @@
   z-index: 1;
   display: flex;
   flex-direction: column;
+  gap: 20px;
   font-weight: 700;
   font-size: 100px;
   line-height: 1.15;
@@ -215,7 +216,7 @@
   display: grid;
   grid-template-columns: 334px 1fr;
   gap: 25px;
-  margin: 181px 24px 0;
+  margin: 155px 24px 0;
 }
 
 .about__logo {
